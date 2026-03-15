@@ -1,0 +1,83 @@
+{
+  "total_traces": 1679,
+  "outcome_counts": {
+    "Permit REJECTED by MISSING": 10,
+    "Payment Handled": 1584,
+    "Request For Payment REJECTED by MISSING": 7,
+    "Request For Payment REJECTED by EMPLOYEE": 48,
+    "Request For Payment SAVED by EMPLOYEE": 16,
+    "Permit FINAL_APPROVED by DIRECTOR": 5,
+    "Permit FINAL_APPROVED by SUPERVISOR": 8,
+    "Request For Payment REJECTED by ADMINISTRATION": 1
+  },
+  "outcome_distribution": {
+    "Permit REJECTED by MISSING": 0.5955926146515783,
+    "Payment Handled": 94.34187016081,
+    "Request For Payment REJECTED by MISSING": 0.4169148302561048,
+    "Request For Payment REJECTED by EMPLOYEE": 2.858844550327576,
+    "Request For Payment SAVED by EMPLOYEE": 0.9529481834425254,
+    "Permit FINAL_APPROVED by DIRECTOR": 0.29779630732578916,
+    "Permit FINAL_APPROVED by SUPERVISOR": 0.4764740917212627,
+    "Request For Payment REJECTED by ADMINISTRATION": 0.05955926146515784
+  },
+  "outcome_length_stats": {
+    "Permit REJECTED by MISSING": {
+      "count": 10,
+      "avg_length": 7.9,
+      "min_length": 6,
+      "max_length": 9
+    },
+    "Payment Handled": {
+      "count": 1584,
+      "avg_length": 8.878787878787879,
+      "min_length": 4,
+      "max_length": 21
+    },
+    "Request For Payment REJECTED by MISSING": {
+      "count": 7,
+      "avg_length": 6.142857142857143,
+      "min_length": 3,
+      "max_length": 9
+    },
+    "Request For Payment REJECTED by EMPLOYEE": {
+      "count": 48,
+      "avg_length": 6.3125,
+      "min_length": 3,
+      "max_length": 15
+    },
+    "Request For Payment SAVED by EMPLOYEE": {
+      "count": 16,
+      "avg_length": 3.5625,
+      "min_length": 1,
+      "max_length": 9
+    },
+    "Permit FINAL_APPROVED by DIRECTOR": {
+      "count": 5,
+      "avg_length": 13.4,
+      "min_length": 11,
+      "max_length": 15
+    },
+    "Permit FINAL_APPROVED by SUPERVISOR": {
+      "count": 8,
+      "avg_length": 7.625,
+      "min_length": 5,
+      "max_length": 11
+    },
+    "Request For Payment REJECTED by ADMINISTRATION": {
+      "count": 1,
+      "avg_length": 4.0,
+      "min_length": 4,
+      "max_length": 4
+    }
+  },
+  "unique_outcomes": [
+    "Permit REJECTED by MISSING",
+    "Payment Handled",
+    "Request For Payment REJECTED by MISSING",
+    "Request For Payment REJECTED by EMPLOYEE",
+    "Request For Payment SAVED by EMPLOYEE",
+    "Permit FINAL_APPROVED by DIRECTOR",
+    "Permit FINAL_APPROVED by SUPERVISOR",
+    "Request For Payment REJECTED by ADMINISTRATION"
+  ]
+}

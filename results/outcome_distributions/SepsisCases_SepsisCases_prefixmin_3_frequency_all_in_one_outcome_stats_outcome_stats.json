@@ -1,0 +1,33 @@
+{
+  "total_feature_vectors": 30,
+  "outcome_counts": {
+    "8": 7,
+    "13": 10,
+    "4": 7,
+    "9": 2,
+    "10": 2,
+    "7": 2
+  },
+  "outcome_distribution": {
+    "8": 23.333333333333332,
+    "13": 33.33333333333333,
+    "4": 23.333333333333332,
+    "9": 6.666666666666667,
+    "10": 6.666666666666667,
+    "7": 6.666666666666667
+  },
+  "trace_vector_stats": {
+    "min_vectors_per_trace": 1,
+    "max_vectors_per_trace": 3,
+    "avg_vectors_per_trace": 1.5789473684210527,
+    "total_traces": 19
+  },
+  "unique_outcomes": [
+    "8",
+    "13",
+    "4",
+    "9",
+    "10",
+    "7"
+  ]
+}

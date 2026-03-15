@@ -1,0 +1,22 @@
+{
+  "dataset_name": "SepsisCases",
+  "num_traces": 1050,
+  "num_events": 15214,
+  "num_variants": 846,
+  "variance_ratio": 0.8057142857142857,
+  "num_activities": 16,
+  "trace_length_min": 3,
+  "trace_length_max": 185,
+  "trace_length_avg": 14,
+  "trace_length_median": 13,
+  "trace_length_std": 11.470474925273926,
+  "homogeneity_ratio": 0.8193196375195662,
+  "trace_attributes": 0,
+  "event_attributes": 31,
+  "total_attributes": 31,
+  "prefix_lengths": {
+    "min": 3,
+    "avg": 14,
+    "max": 185
+  }
+}

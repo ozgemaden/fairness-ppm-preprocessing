@@ -1,0 +1,22 @@
+{
+  "dataset_name": "Road_Traffic_Fine_Management_Process",
+  "num_traces": 150370,
+  "num_events": 561470,
+  "num_variants": 231,
+  "variance_ratio": 0.0015362106803218727,
+  "num_activities": 11,
+  "trace_length_min": 2,
+  "trace_length_max": 20,
+  "trace_length_avg": 3,
+  "trace_length_median": 5,
+  "trace_length_std": 1.64101163661802,
+  "homogeneity_ratio": 0.5470038788726733,
+  "trace_attributes": 0,
+  "event_attributes": 15,
+  "total_attributes": 15,
+  "prefix_lengths": {
+    "min": 2,
+    "avg": 3,
+    "max": 20
+  }
+}

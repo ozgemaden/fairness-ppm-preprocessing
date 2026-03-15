@@ -1,0 +1,74 @@
+{
+  "total_traces": 120296,
+  "outcome_counts": {
+    "Send Fine": 17637,
+    "Send for Credit Collection": 45129,
+    "Payment": 54757,
+    "Send Appeal to Prefecture": 2561,
+    "Appeal to Judge": 97,
+    "Notify Result Appeal to Offender": 71,
+    "Receive Result Appeal from Prefecture": 44
+  },
+  "outcome_distribution": {
+    "Send Fine": 14.661335372747223,
+    "Send for Credit Collection": 37.5149630910421,
+    "Payment": 45.5185542328922,
+    "Send Appeal to Prefecture": 2.128915342156015,
+    "Appeal to Judge": 0.08063443506018488,
+    "Notify Result Appeal to Offender": 0.059021081332712645,
+    "Receive Result Appeal from Prefecture": 0.0365764447695684
+  },
+  "outcome_length_stats": {
+    "Send Fine": {
+      "count": 17637,
+      "avg_length": 2.0138345523615127,
+      "min_length": 2,
+      "max_length": 4
+    },
+    "Send for Credit Collection": {
+      "count": 45129,
+      "avg_length": 5.050211615590862,
+      "min_length": 5,
+      "max_length": 10
+    },
+    "Payment": {
+      "count": 54757,
+      "avg_length": 2.9302372299432036,
+      "min_length": 2,
+      "max_length": 20
+    },
+    "Send Appeal to Prefecture": {
+      "count": 2561,
+      "avg_length": 5.9789144865287,
+      "min_length": 4,
+      "max_length": 10
+    },
+    "Appeal to Judge": {
+      "count": 97,
+      "avg_length": 7.577319587628866,
+      "min_length": 3,
+      "max_length": 10
+    },
+    "Notify Result Appeal to Offender": {
+      "count": 71,
+      "avg_length": 7.943661971830986,
+      "min_length": 6,
+      "max_length": 9
+    },
+    "Receive Result Appeal from Prefecture": {
+      "count": 44,
+      "avg_length": 6.954545454545454,
+      "min_length": 5,
+      "max_length": 8
+    }
+  },
+  "unique_outcomes": [
+    "Send Fine",
+    "Send for Credit Collection",
+    "Payment",
+    "Send Appeal to Prefecture",
+    "Appeal to Judge",
+    "Notify Result Appeal to Offender",
+    "Receive Result Appeal from Prefecture"
+  ]
+}

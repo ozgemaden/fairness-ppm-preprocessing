@@ -1,0 +1,102 @@
+{
+  "static_attributes": [
+    "prefix_1",
+    "Resource_1"
+  ],
+  "dynamic_attributes": [],
+  "total_attributes": 2,
+  "static_analyses": {
+    "prefix_1": {
+      "attribute_name": "prefix_1",
+      "crosstab": {
+        "index": [
+          1,
+          2,
+          "All"
+        ],
+        "columns": [
+          4,
+          5,
+          "All"
+        ],
+        "data": [
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            2
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "2": {
+          "count": 1,
+          "outcome_counts": {
+            "5": 1
+          },
+          "outcome_distribution": {
+            "5": 100.0
+          }
+        },
+        "1": {
+          "count": 1,
+          "outcome_counts": {
+            "4": 1
+          },
+          "outcome_distribution": {
+            "4": 100.0
+          }
+        }
+      }
+    },
+    "Resource_1": {
+      "attribute_name": "Resource_1",
+      "crosstab": {
+        "index": [
+          1,
+          "All"
+        ],
+        "columns": [
+          4,
+          5,
+          "All"
+        ],
+        "data": [
+          [
+            1,
+            1,
+            2
+          ],
+          [
+            1,
+            1,
+            2
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "1": {
+          "count": 2,
+          "outcome_counts": {
+            "5": 1,
+            "4": 1
+          },
+          "outcome_distribution": {
+            "5": 50.0,
+            "4": 50.0
+          }
+        }
+      }
+    }
+  },
+  "dynamic_analyses": {}
+}

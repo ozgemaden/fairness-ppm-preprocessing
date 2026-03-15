@@ -1,0 +1,137 @@
+{
+  "total_traces": 840,
+  "outcome_counts": {
+    "Release A": 312,
+    "Return ER": 239,
+    "IV Antibiotics": 65,
+    "Release B": 47,
+    "ER Sepsis Triage": 32,
+    "Leucocytes": 36,
+    "IV Liquid": 10,
+    "Release C": 15,
+    "CRP": 33,
+    "LacticAcid": 22,
+    "Release D": 10,
+    "Admission NC": 12,
+    "Release E": 5,
+    "ER Triage": 2
+  },
+  "outcome_distribution": {
+    "Release A": 37.142857142857146,
+    "Return ER": 28.452380952380953,
+    "IV Antibiotics": 7.738095238095238,
+    "Release B": 5.595238095238096,
+    "ER Sepsis Triage": 3.8095238095238098,
+    "Leucocytes": 4.285714285714286,
+    "IV Liquid": 1.1904761904761905,
+    "Release C": 1.7857142857142856,
+    "CRP": 3.9285714285714284,
+    "LacticAcid": 2.619047619047619,
+    "Release D": 1.1904761904761905,
+    "Admission NC": 1.4285714285714286,
+    "Release E": 0.5952380952380952,
+    "ER Triage": 0.2380952380952381
+  },
+  "outcome_length_stats": {
+    "Release A": {
+      "count": 312,
+      "avg_length": 15.314102564102564,
+      "min_length": 5,
+      "max_length": 84
+    },
+    "Return ER": {
+      "count": 239,
+      "avg_length": 18.167364016736403,
+      "min_length": 7,
+      "max_length": 170
+    },
+    "IV Antibiotics": {
+      "count": 65,
+      "avg_length": 7.907692307692308,
+      "min_length": 6,
+      "max_length": 10
+    },
+    "Release B": {
+      "count": 47,
+      "avg_length": 19.361702127659573,
+      "min_length": 8,
+      "max_length": 118
+    },
+    "ER Sepsis Triage": {
+      "count": 32,
+      "avg_length": 3.59375,
+      "min_length": 3,
+      "max_length": 7
+    },
+    "Leucocytes": {
+      "count": 36,
+      "avg_length": 7.694444444444445,
+      "min_length": 4,
+      "max_length": 21
+    },
+    "IV Liquid": {
+      "count": 10,
+      "avg_length": 8.1,
+      "min_length": 7,
+      "max_length": 10
+    },
+    "Release C": {
+      "count": 15,
+      "avg_length": 15.8,
+      "min_length": 10,
+      "max_length": 24
+    },
+    "CRP": {
+      "count": 33,
+      "avg_length": 6.212121212121212,
+      "min_length": 5,
+      "max_length": 11
+    },
+    "LacticAcid": {
+      "count": 22,
+      "avg_length": 8.0,
+      "min_length": 6,
+      "max_length": 24
+    },
+    "Release D": {
+      "count": 10,
+      "avg_length": 26.6,
+      "min_length": 12,
+      "max_length": 88
+    },
+    "Admission NC": {
+      "count": 12,
+      "avg_length": 8.833333333333334,
+      "min_length": 7,
+      "max_length": 9
+    },
+    "Release E": {
+      "count": 5,
+      "avg_length": 19.8,
+      "min_length": 11,
+      "max_length": 33
+    },
+    "ER Triage": {
+      "count": 2,
+      "avg_length": 7.5,
+      "min_length": 6,
+      "max_length": 9
+    }
+  },
+  "unique_outcomes": [
+    "Release A",
+    "Return ER",
+    "IV Antibiotics",
+    "Release B",
+    "ER Sepsis Triage",
+    "Leucocytes",
+    "IV Liquid",
+    "Release C",
+    "CRP",
+    "LacticAcid",
+    "Release D",
+    "Admission NC",
+    "Release E",
+    "ER Triage"
+  ]
+}

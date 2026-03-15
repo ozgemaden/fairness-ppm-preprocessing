@@ -1,0 +1,18 @@
+# Encoded data files are too large for GitHub (up to 3.2 GB)
+results/encoded_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/

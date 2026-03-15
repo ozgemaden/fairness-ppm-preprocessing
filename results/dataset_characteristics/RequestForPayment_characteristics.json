@@ -1,0 +1,22 @@
+{
+  "dataset_name": "RequestForPayment",
+  "num_traces": 6886,
+  "num_events": 36796,
+  "num_variants": 89,
+  "variance_ratio": 0.012924774905605577,
+  "num_activities": 19,
+  "trace_length_min": 1,
+  "trace_length_max": 20,
+  "trace_length_avg": 5,
+  "trace_length_median": 5,
+  "trace_length_std": 1.4673844229755477,
+  "homogeneity_ratio": 0.29347688459510957,
+  "trace_attributes": 0,
+  "event_attributes": 13,
+  "total_attributes": 13,
+  "prefix_lengths": {
+    "min": 1,
+    "avg": 5,
+    "max": 20
+  }
+}

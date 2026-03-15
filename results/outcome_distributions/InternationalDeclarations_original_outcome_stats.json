@@ -1,0 +1,92 @@
+{
+  "total_traces": 5159,
+  "outcome_counts": {
+    "Payment Handled": 4429,
+    "End trip": 562,
+    "Declaration SAVED by EMPLOYEE": 42,
+    "Permit REJECTED by MISSING": 8,
+    "Declaration REJECTED by MISSING": 11,
+    "Declaration REJECTED by EMPLOYEE": 103,
+    "Declaration FINAL_APPROVED by SUPERVISOR": 1,
+    "Send Reminder": 1,
+    "Request Payment": 2
+  },
+  "outcome_distribution": {
+    "Payment Handled": 85.84997092459778,
+    "End trip": 10.893584027912386,
+    "Declaration SAVED by EMPLOYEE": 0.8141112618724559,
+    "Permit REJECTED by MISSING": 0.1550688117852297,
+    "Declaration REJECTED by MISSING": 0.21321961620469082,
+    "Declaration REJECTED by EMPLOYEE": 1.9965109517348323,
+    "Declaration FINAL_APPROVED by SUPERVISOR": 0.01938360147315371,
+    "Send Reminder": 0.01938360147315371,
+    "Request Payment": 0.03876720294630742
+  },
+  "outcome_length_stats": {
+    "Payment Handled": {
+      "count": 4429,
+      "avg_length": 11.487920523820275,
+      "min_length": 7,
+      "max_length": 27
+    },
+    "End trip": {
+      "count": 562,
+      "avg_length": 8.375444839857652,
+      "min_length": 3,
+      "max_length": 17
+    },
+    "Declaration SAVED by EMPLOYEE": {
+      "count": 42,
+      "avg_length": 6.571428571428571,
+      "min_length": 3,
+      "max_length": 14
+    },
+    "Permit REJECTED by MISSING": {
+      "count": 8,
+      "avg_length": 8.375,
+      "min_length": 6,
+      "max_length": 10
+    },
+    "Declaration REJECTED by MISSING": {
+      "count": 11,
+      "avg_length": 8.545454545454545,
+      "min_length": 7,
+      "max_length": 9
+    },
+    "Declaration REJECTED by EMPLOYEE": {
+      "count": 103,
+      "avg_length": 9.019417475728156,
+      "min_length": 5,
+      "max_length": 17
+    },
+    "Declaration FINAL_APPROVED by SUPERVISOR": {
+      "count": 1,
+      "avg_length": 6.0,
+      "min_length": 6,
+      "max_length": 6
+    },
+    "Send Reminder": {
+      "count": 1,
+      "avg_length": 15.0,
+      "min_length": 15,
+      "max_length": 15
+    },
+    "Request Payment": {
+      "count": 2,
+      "avg_length": 7.0,
+      "min_length": 7,
+      "max_length": 7
+    }
+  },
+  "unique_outcomes": [
+    "Payment Handled",
+    "End trip",
+    "Declaration SAVED by EMPLOYEE",
+    "Permit REJECTED by MISSING",
+    "Declaration REJECTED by MISSING",
+    "Declaration REJECTED by EMPLOYEE",
+    "Declaration FINAL_APPROVED by SUPERVISOR",
+    "Send Reminder",
+    "Request Payment"
+  ]
+}

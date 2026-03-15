@@ -1,0 +1,22 @@
+{
+  "dataset_name": "InternationalDeclarations",
+  "num_traces": 6449,
+  "num_events": 72151,
+  "num_variants": 753,
+  "variance_ratio": 0.11676228872693441,
+  "num_activities": 34,
+  "trace_length_min": 3,
+  "trace_length_max": 27,
+  "trace_length_avg": 11,
+  "trace_length_median": 10,
+  "trace_length_std": 2.7406707917109645,
+  "homogeneity_ratio": 0.24915189015554223,
+  "trace_attributes": 0,
+  "event_attributes": 22,
+  "total_attributes": 22,
+  "prefix_lengths": {
+    "min": 3,
+    "avg": 11,
+    "max": 27
+  }
+}

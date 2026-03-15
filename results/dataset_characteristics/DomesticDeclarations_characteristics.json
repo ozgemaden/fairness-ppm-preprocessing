@@ -1,0 +1,22 @@
+{
+  "dataset_name": "DomesticDeclarations",
+  "num_traces": 10500,
+  "num_events": 56437,
+  "num_variants": 99,
+  "variance_ratio": 0.009428571428571429,
+  "num_activities": 17,
+  "trace_length_min": 1,
+  "trace_length_max": 24,
+  "trace_length_avg": 5,
+  "trace_length_median": 5,
+  "trace_length_std": 1.486344588521674,
+  "homogeneity_ratio": 0.2972689177043348,
+  "trace_attributes": 0,
+  "event_attributes": 9,
+  "total_attributes": 9,
+  "prefix_lengths": {
+    "min": 1,
+    "avg": 5,
+    "max": 24
+  }
+}

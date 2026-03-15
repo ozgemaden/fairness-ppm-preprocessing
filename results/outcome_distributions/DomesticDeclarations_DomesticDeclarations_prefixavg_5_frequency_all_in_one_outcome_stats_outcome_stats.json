@@ -1,0 +1,27 @@
+{
+  "total_feature_vectors": 74,
+  "outcome_counts": {
+    "5": 58,
+    "4": 1,
+    "1": 10,
+    "2": 5
+  },
+  "outcome_distribution": {
+    "5": 78.37837837837837,
+    "4": 1.3513513513513513,
+    "1": 13.513513513513514,
+    "2": 6.756756756756757
+  },
+  "trace_vector_stats": {
+    "min_vectors_per_trace": 1,
+    "max_vectors_per_trace": 4,
+    "avg_vectors_per_trace": 2.0,
+    "total_traces": 37
+  },
+  "unique_outcomes": [
+    "5",
+    "4",
+    "1",
+    "2"
+  ]
+}

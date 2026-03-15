@@ -1,0 +1,2999 @@
+{
+  "static_attributes": [
+    "prefix_1",
+    "Age_1",
+    "DiagnosticArtAstrup_1",
+    "DiagnosticBlood_1",
+    "DiagnosticECG_1",
+    "DiagnosticIC_1",
+    "DiagnosticLacticAcid_1",
+    "DiagnosticLiquor_1",
+    "DiagnosticOther_1",
+    "DiagnosticSputum_1",
+    "DiagnosticUrinaryCulture_1",
+    "DiagnosticUrinarySediment_1",
+    "DiagnosticXthorax_1",
+    "DisfuncOrg_1",
+    "Hypotensie_1",
+    "Hypoxie_1",
+    "InfectionSuspected_1",
+    "Infusion_1",
+    "Oligurie_1",
+    "SIRSCritHeartRate_1",
+    "SIRSCritLeucos_1",
+    "SIRSCritTachypnea_1",
+    "SIRSCritTemperature_1",
+    "SIRSCriteria2OrMore_1",
+    "Variant_1",
+    "Variant index_1",
+    "lifecycle:transition_1",
+    "org:group_1",
+    "Age_6",
+    "Age_7",
+    "DiagnosticArtAstrup_7",
+    "DiagnosticBlood_7",
+    "DiagnosticECG_7",
+    "DiagnosticIC_7",
+    "DiagnosticLacticAcid_7",
+    "DiagnosticLiquor_7",
+    "DiagnosticOther_7",
+    "DiagnosticSputum_7",
+    "DiagnosticUrinaryCulture_7",
+    "DiagnosticUrinarySediment_7",
+    "DiagnosticXthorax_7",
+    "DisfuncOrg_7",
+    "Hypotensie_7",
+    "Hypoxie_7",
+    "InfectionSuspected_7",
+    "Infusion_7",
+    "Oligurie_7",
+    "SIRSCritHeartRate_7",
+    "SIRSCritLeucos_7",
+    "SIRSCritTachypnea_7",
+    "SIRSCritTemperature_7",
+    "SIRSCriteria2OrMore_7",
+    "Age_8",
+    "DiagnosticArtAstrup_8",
+    "DiagnosticBlood_8",
+    "DiagnosticECG_8",
+    "DiagnosticIC_8",
+    "DiagnosticLacticAcid_8",
+    "DiagnosticLiquor_8",
+    "DiagnosticOther_8",
+    "DiagnosticSputum_8",
+    "DiagnosticUrinaryCulture_8",
+    "DiagnosticUrinarySediment_8",
+    "DiagnosticXthorax_8",
+    "DisfuncOrg_8",
+    "Hypotensie_8",
+    "Hypoxie_8",
+    "InfectionSuspected_8",
+    "Infusion_8",
+    "Oligurie_8",
+    "SIRSCritHeartRate_8",
+    "SIRSCritLeucos_8",
+    "SIRSCritTachypnea_8",
+    "SIRSCritTemperature_8",
+    "SIRSCriteria2OrMore_8",
+    "Age_9",
+    "DiagnosticArtAstrup_9",
+    "DiagnosticBlood_9",
+    "DiagnosticECG_9",
+    "DiagnosticIC_9",
+    "DiagnosticLacticAcid_9",
+    "DiagnosticLiquor_9",
+    "DiagnosticOther_9",
+    "DiagnosticSputum_9",
+    "DiagnosticUrinaryCulture_9",
+    "DiagnosticUrinarySediment_9",
+    "DiagnosticXthorax_9",
+    "DisfuncOrg_9",
+    "Hypotensie_9",
+    "Hypoxie_9",
+    "InfectionSuspected_9",
+    "Infusion_9",
+    "Oligurie_9",
+    "SIRSCritHeartRate_9",
+    "SIRSCritLeucos_9",
+    "SIRSCritTachypnea_9",
+    "SIRSCritTemperature_9",
+    "SIRSCriteria2OrMore_9",
+    "Age_10",
+    "DiagnosticArtAstrup_10",
+    "DiagnosticBlood_10",
+    "DiagnosticECG_10",
+    "DiagnosticIC_10",
+    "DiagnosticLacticAcid_10",
+    "DiagnosticLiquor_10",
+    "DiagnosticOther_10",
+    "DiagnosticSputum_10",
+    "DiagnosticUrinaryCulture_10",
+    "DiagnosticUrinarySediment_10",
+    "DiagnosticXthorax_10",
+    "DisfuncOrg_10",
+    "Hypotensie_10",
+    "Hypoxie_10",
+    "InfectionSuspected_10",
+    "Infusion_10",
+    "Oligurie_10",
+    "SIRSCritHeartRate_10",
+    "SIRSCritLeucos_10",
+    "SIRSCritTachypnea_10",
+    "SIRSCritTemperature_10",
+    "SIRSCriteria2OrMore_10",
+    "Age_11",
+    "DiagnosticArtAstrup_11",
+    "DiagnosticBlood_11",
+    "DiagnosticECG_11",
+    "DiagnosticIC_11",
+    "DiagnosticLacticAcid_11",
+    "DiagnosticLiquor_11",
+    "DiagnosticOther_11",
+    "DiagnosticSputum_11",
+    "DiagnosticUrinaryCulture_11",
+    "DiagnosticUrinarySediment_11",
+    "DiagnosticXthorax_11",
+    "DisfuncOrg_11",
+    "Hypotensie_11",
+    "Hypoxie_11",
+    "InfectionSuspected_11",
+    "Infusion_11",
+    "Oligurie_11",
+    "SIRSCritHeartRate_11",
+    "SIRSCritLeucos_11",
+    "SIRSCritTachypnea_11",
+    "SIRSCritTemperature_11",
+    "SIRSCriteria2OrMore_11",
+    "Age_12",
+    "DiagnosticArtAstrup_12",
+    "DiagnosticBlood_12",
+    "DiagnosticECG_12",
+    "DiagnosticIC_12",
+    "DiagnosticLacticAcid_12",
+    "DiagnosticLiquor_12",
+    "DiagnosticOther_12",
+    "DiagnosticSputum_12",
+    "DiagnosticUrinaryCulture_12",
+    "DiagnosticUrinarySediment_12",
+    "DiagnosticXthorax_12",
+    "DisfuncOrg_12",
+    "Hypotensie_12",
+    "Hypoxie_12",
+    "InfectionSuspected_12",
+    "Infusion_12",
+    "Oligurie_12",
+    "SIRSCritHeartRate_12",
+    "SIRSCritLeucos_12",
+    "SIRSCritTachypnea_12",
+    "SIRSCritTemperature_12",
+    "SIRSCriteria2OrMore_12",
+    "Age_13",
+    "DiagnosticArtAstrup_13",
+    "DiagnosticBlood_13",
+    "DiagnosticECG_13",
+    "DiagnosticIC_13",
+    "DiagnosticLacticAcid_13",
+    "DiagnosticLiquor_13",
+    "DiagnosticOther_13",
+    "DiagnosticSputum_13",
+    "DiagnosticUrinaryCulture_13",
+    "DiagnosticUrinarySediment_13",
+    "DiagnosticXthorax_13",
+    "DisfuncOrg_13",
+    "Hypotensie_13",
+    "Hypoxie_13",
+    "InfectionSuspected_13",
+    "Infusion_13",
+    "Oligurie_13",
+    "SIRSCritHeartRate_13",
+    "SIRSCritLeucos_13",
+    "SIRSCritTachypnea_13",
+    "SIRSCritTemperature_13",
+    "SIRSCriteria2OrMore_13",
+    "Age_14",
+    "DiagnosticArtAstrup_14",
+    "DiagnosticBlood_14",
+    "DiagnosticECG_14",
+    "DiagnosticIC_14",
+    "DiagnosticLacticAcid_14",
+    "DiagnosticLiquor_14",
+    "DiagnosticOther_14",
+    "DiagnosticSputum_14",
+    "DiagnosticUrinaryCulture_14",
+    "DiagnosticUrinarySediment_14",
+    "DiagnosticXthorax_14",
+    "DisfuncOrg_14",
+    "Hypotensie_14",
+    "Hypoxie_14",
+    "InfectionSuspected_14",
+    "Infusion_14",
+    "Oligurie_14",
+    "SIRSCritHeartRate_14",
+    "SIRSCritLeucos_14",
+    "SIRSCritTachypnea_14",
+    "SIRSCritTemperature_14",
+    "SIRSCriteria2OrMore_14"
+  ],
+  "dynamic_attributes": [
+    "CRP_1",
+    "LacticAcid_1",
+    "Leucocytes_1",
+    "prefix_2",
+    "Age_2",
+    "CRP_2",
+    "DiagnosticArtAstrup_2",
+    "DiagnosticBlood_2",
+    "DiagnosticECG_2",
+    "DiagnosticIC_2",
+    "DiagnosticLacticAcid_2",
+    "DiagnosticLiquor_2",
+    "DiagnosticOther_2",
+    "DiagnosticSputum_2",
+    "DiagnosticUrinaryCulture_2",
+    "DiagnosticUrinarySediment_2",
+    "DiagnosticXthorax_2",
+    "DisfuncOrg_2",
+    "Hypotensie_2",
+    "Hypoxie_2",
+    "InfectionSuspected_2",
+    "Infusion_2",
+    "LacticAcid_2",
+    "Leucocytes_2",
+    "Oligurie_2",
+    "SIRSCritHeartRate_2",
+    "SIRSCritLeucos_2",
+    "SIRSCritTachypnea_2",
+    "SIRSCritTemperature_2",
+    "SIRSCriteria2OrMore_2",
+    "Variant_2",
+    "Variant index_2",
+    "lifecycle:transition_2",
+    "org:group_2",
+    "prefix_3",
+    "Age_3",
+    "CRP_3",
+    "DiagnosticArtAstrup_3",
+    "DiagnosticBlood_3",
+    "DiagnosticECG_3",
+    "DiagnosticIC_3",
+    "DiagnosticLacticAcid_3",
+    "DiagnosticLiquor_3",
+    "DiagnosticOther_3",
+    "DiagnosticSputum_3",
+    "DiagnosticUrinaryCulture_3",
+    "DiagnosticUrinarySediment_3",
+    "DiagnosticXthorax_3",
+    "DisfuncOrg_3",
+    "Hypotensie_3",
+    "Hypoxie_3",
+    "InfectionSuspected_3",
+    "Infusion_3",
+    "LacticAcid_3",
+    "Leucocytes_3",
+    "Oligurie_3",
+    "SIRSCritHeartRate_3",
+    "SIRSCritLeucos_3",
+    "SIRSCritTachypnea_3",
+    "SIRSCritTemperature_3",
+    "SIRSCriteria2OrMore_3",
+    "Variant_3",
+    "Variant index_3",
+    "lifecycle:transition_3",
+    "org:group_3",
+    "prefix_4",
+    "Age_4",
+    "CRP_4",
+    "DiagnosticArtAstrup_4",
+    "DiagnosticBlood_4",
+    "DiagnosticECG_4",
+    "DiagnosticIC_4",
+    "DiagnosticLacticAcid_4",
+    "DiagnosticLiquor_4",
+    "DiagnosticOther_4",
+    "DiagnosticSputum_4",
+    "DiagnosticUrinaryCulture_4",
+    "DiagnosticUrinarySediment_4",
+    "DiagnosticXthorax_4",
+    "DisfuncOrg_4",
+    "Hypotensie_4",
+    "Hypoxie_4",
+    "InfectionSuspected_4",
+    "Infusion_4",
+    "LacticAcid_4",
+    "Leucocytes_4",
+    "Oligurie_4",
+    "SIRSCritHeartRate_4",
+    "SIRSCritLeucos_4",
+    "SIRSCritTachypnea_4",
+    "SIRSCritTemperature_4",
+    "SIRSCriteria2OrMore_4",
+    "Variant_4",
+    "Variant index_4",
+    "lifecycle:transition_4",
+    "org:group_4",
+    "prefix_5",
+    "Age_5",
+    "CRP_5",
+    "DiagnosticArtAstrup_5",
+    "DiagnosticBlood_5",
+    "DiagnosticECG_5",
+    "DiagnosticIC_5",
+    "DiagnosticLacticAcid_5",
+    "DiagnosticLiquor_5",
+    "DiagnosticOther_5",
+    "DiagnosticSputum_5",
+    "DiagnosticUrinaryCulture_5",
+    "DiagnosticUrinarySediment_5",
+    "DiagnosticXthorax_5",
+    "DisfuncOrg_5",
+    "Hypotensie_5",
+    "Hypoxie_5",
+    "InfectionSuspected_5",
+    "Infusion_5",
+    "LacticAcid_5",
+    "Leucocytes_5",
+    "Oligurie_5",
+    "SIRSCritHeartRate_5",
+    "SIRSCritLeucos_5",
+    "SIRSCritTachypnea_5",
+    "SIRSCritTemperature_5",
+    "SIRSCriteria2OrMore_5",
+    "Variant_5",
+    "Variant index_5",
+    "lifecycle:transition_5",
+    "org:group_5",
+    "prefix_6",
+    "CRP_6",
+    "DiagnosticArtAstrup_6",
+    "DiagnosticBlood_6",
+    "DiagnosticECG_6",
+    "DiagnosticIC_6",
+    "DiagnosticLacticAcid_6",
+    "DiagnosticLiquor_6",
+    "DiagnosticOther_6",
+    "DiagnosticSputum_6",
+    "DiagnosticUrinaryCulture_6",
+    "DiagnosticUrinarySediment_6",
+    "DiagnosticXthorax_6",
+    "DisfuncOrg_6",
+    "Hypotensie_6",
+    "Hypoxie_6",
+    "InfectionSuspected_6",
+    "Infusion_6",
+    "LacticAcid_6",
+    "Leucocytes_6",
+    "Oligurie_6",
+    "SIRSCritHeartRate_6",
+    "SIRSCritLeucos_6",
+    "SIRSCritTachypnea_6",
+    "SIRSCritTemperature_6",
+    "SIRSCriteria2OrMore_6",
+    "Variant_6",
+    "Variant index_6",
+    "lifecycle:transition_6",
+    "org:group_6",
+    "prefix_7",
+    "CRP_7",
+    "LacticAcid_7",
+    "Leucocytes_7",
+    "Variant_7",
+    "Variant index_7",
+    "lifecycle:transition_7",
+    "org:group_7",
+    "prefix_8",
+    "CRP_8",
+    "LacticAcid_8",
+    "Leucocytes_8",
+    "Variant_8",
+    "Variant index_8",
+    "lifecycle:transition_8",
+    "org:group_8",
+    "prefix_9",
+    "CRP_9",
+    "LacticAcid_9",
+    "Leucocytes_9",
+    "Variant_9",
+    "Variant index_9",
+    "lifecycle:transition_9",
+    "org:group_9",
+    "prefix_10",
+    "CRP_10",
+    "LacticAcid_10",
+    "Leucocytes_10",
+    "Variant_10",
+    "Variant index_10",
+    "lifecycle:transition_10",
+    "org:group_10",
+    "prefix_11",
+    "CRP_11",
+    "LacticAcid_11",
+    "Leucocytes_11",
+    "Variant_11",
+    "Variant index_11",
+    "lifecycle:transition_11",
+    "org:group_11",
+    "prefix_12",
+    "CRP_12",
+    "LacticAcid_12",
+    "Leucocytes_12",
+    "Variant_12",
+    "Variant index_12",
+    "lifecycle:transition_12",
+    "org:group_12",
+    "prefix_13",
+    "CRP_13",
+    "LacticAcid_13",
+    "Leucocytes_13",
+    "Variant_13",
+    "Variant index_13",
+    "lifecycle:transition_13",
+    "org:group_13",
+    "prefix_14",
+    "CRP_14",
+    "LacticAcid_14",
+    "Leucocytes_14",
+    "Variant_14",
+    "Variant index_14",
+    "lifecycle:transition_14",
+    "org:group_14"
+  ],
+  "total_attributes": 434,
+  "static_analyses": {
+    "prefix_1": {
+      "attribute_name": "prefix_1",
+      "crosstab": {
+        "index": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            0,
+            0,
+            7,
+            0,
+            9,
+            8,
+            0,
+            0,
+            23,
+            12,
+            14,
+            0,
+            0,
+            14,
+            87
+          ],
+          [
+            106,
+            179,
+            75,
+            15,
+            494,
+            73,
+            166,
+            223,
+            3739,
+            526,
+            174,
+            123,
+            66,
+            3013,
+            8972
+          ],
+          [
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            11,
+            0,
+            14,
+            0,
+            0,
+            0,
+            28,
+            58
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            54,
+            54
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            12,
+            28,
+            14,
+            0,
+            0,
+            0,
+            79,
+            141
+          ],
+          [
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            143,
+            28,
+            14,
+            14,
+            0,
+            14,
+            219
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "2": {
+          "count": 8972,
+          "outcome_counts": {
+            "8": 3739,
+            "13": 3013,
+            "4": 494,
+            "9": 526,
+            "2": 75,
+            "7": 223,
+            "5": 73,
+            "10": 174,
+            "1": 179,
+            "6": 166,
+            "11": 123,
+            "0": 106,
+            "12": 66,
+            "3": 15
+          },
+          "outcome_distribution": {
+            "8": 41.67409719126171,
+            "13": 33.582255907267054,
+            "4": 5.506018724921979,
+            "9": 5.862683905483728,
+            "2": 0.8359340169415961,
+            "7": 2.485510477039679,
+            "5": 0.8136424431564868,
+            "10": 1.9393669193045031,
+            "1": 1.9950958537672758,
+            "6": 1.850200624164066,
+            "11": 1.3709317877842175,
+            "0": 1.1814534106107892,
+            "12": 0.7356219349086045,
+            "3": 0.16718680338831923
+          }
+        },
+        "5": {
+          "count": 141,
+          "outcome_counts": {
+            "4": 8,
+            "13": 79,
+            "8": 28,
+            "9": 14,
+            "7": 12
+          },
+          "outcome_distribution": {
+            "4": 5.673758865248227,
+            "13": 56.02836879432624,
+            "8": 19.858156028368796,
+            "9": 9.929078014184398,
+            "7": 8.51063829787234
+          }
+        },
+        "4": {
+          "count": 54,
+          "outcome_counts": {
+            "13": 54
+          },
+          "outcome_distribution": {
+            "13": 100.0
+          }
+        },
+        "1": {
+          "count": 87,
+          "outcome_counts": {
+            "4": 9,
+            "8": 23,
+            "13": 14,
+            "2": 7,
+            "10": 14,
+            "9": 12,
+            "5": 8
+          },
+          "outcome_distribution": {
+            "4": 10.344827586206897,
+            "8": 26.436781609195403,
+            "13": 16.091954022988507,
+            "2": 8.045977011494253,
+            "10": 16.091954022988507,
+            "9": 13.793103448275861,
+            "5": 9.195402298850574
+          }
+        },
+        "3": {
+          "count": 58,
+          "outcome_counts": {
+            "13": 28,
+            "1": 5,
+            "7": 11,
+            "9": 14
+          },
+          "outcome_distribution": {
+            "13": 48.275862068965516,
+            "1": 8.620689655172415,
+            "7": 18.96551724137931,
+            "9": 24.137931034482758
+          }
+        },
+        "6": {
+          "count": 219,
+          "outcome_counts": {
+            "8": 143,
+            "9": 28,
+            "11": 14,
+            "10": 14,
+            "1": 6,
+            "13": 14
+          },
+          "outcome_distribution": {
+            "8": 65.29680365296804,
+            "9": 12.785388127853881,
+            "11": 6.392694063926941,
+            "10": 6.392694063926941,
+            "1": 2.73972602739726,
+            "13": 6.392694063926941
+          }
+        }
+      }
+    },
+    "Age_1": {
+      "attribute_name": "Age_1",
+      "crosstab": {
+        "index": [
+          0.0,
+          0.07142857142857145,
+          0.14285714285714285,
+          0.2142857142857143,
+          0.2857142857142857,
+          0.3571428571428571,
+          0.4285714285714286,
+          0.5,
+          0.5714285714285714,
+          0.6428571428571428,
+          0.7142857142857143,
+          0.7857142857142857,
+          0.8571428571428571,
+          0.9285714285714285,
+          0.9999999999999999,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            0,
+            5,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            37,
+            0,
+            0,
+            0,
+            0,
+            0,
+            45
+          ],
+          [
+            0,
+            11,
+            8,
+            0,
+            16,
+            0,
+            12,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0,
+            14,
+            109
+          ],
+          [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            6,
+            11,
+            48,
+            0,
+            0,
+            0,
+            0,
+            36,
+            109
+          ],
+          [
+            0,
+            10,
+            0,
+            0,
+            17,
+            7,
+            0,
+            17,
+            61,
+            0,
+            0,
+            0,
+            0,
+            11,
+            123
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            5,
+            89,
+            0,
+            0,
+            0,
+            0,
+            42,
+            144
+          ],
+          [
+            0,
+            5,
+            18,
+            0,
+            25,
+            0,
+            0,
+            19,
+            126,
+            0,
+            0,
+            0,
+            0,
+            39,
+            232
+          ],
+          [
+            0,
+            11,
+            3,
+            0,
+            16,
+            0,
+            0,
+            5,
+            198,
+            14,
+            0,
+            14,
+            0,
+            28,
+            289
+          ],
+          [
+            0,
+            7,
+            9,
+            0,
+            38,
+            8,
+            0,
+            0,
+            285,
+            0,
+            14,
+            0,
+            0,
+            149,
+            510
+          ],
+          [
+            0,
+            7,
+            3,
+            9,
+            0,
+            8,
+            0,
+            27,
+            331,
+            60,
+            0,
+            14,
+            27,
+            223,
+            709
+          ],
+          [
+            18,
+            23,
+            8,
+            0,
+            15,
+            0,
+            26,
+            0,
+            278,
+            62,
+            0,
+            0,
+            14,
+            322,
+            766
+          ],
+          [
+            9,
+            5,
+            3,
+            0,
+            48,
+            9,
+            14,
+            33,
+            356,
+            49,
+            0,
+            14,
+            14,
+            339,
+            893
+          ],
+          [
+            0,
+            8,
+            3,
+            6,
+            135,
+            15,
+            21,
+            39,
+            477,
+            94,
+            0,
+            0,
+            0,
+            434,
+            1232
+          ],
+          [
+            18,
+            22,
+            3,
+            0,
+            47,
+            10,
+            8,
+            35,
+            481,
+            73,
+            0,
+            0,
+            0,
+            589,
+            1286
+          ],
+          [
+            45,
+            46,
+            10,
+            0,
+            68,
+            24,
+            39,
+            8,
+            622,
+            131,
+            28,
+            0,
+            0,
+            524,
+            1545
+          ],
+          [
+            16,
+            30,
+            3,
+            0,
+            78,
+            0,
+            40,
+            47,
+            496,
+            111,
+            160,
+            95,
+            11,
+            452,
+            1539
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "0.9285714285714285": {
+          "count": 1545,
+          "outcome_counts": {
+            "8": 622,
+            "13": 524,
+            "1": 46,
+            "6": 39,
+            "9": 131,
+            "2": 10,
+            "0": 45,
+            "4": 68,
+            "10": 28,
+            "7": 8,
+            "5": 24
+          },
+          "outcome_distribution": {
+            "8": 40.25889967637541,
+            "13": 33.915857605178,
+            "1": 2.9773462783171523,
+            "6": 2.524271844660194,
+            "9": 8.4789644012945,
+            "2": 0.6472491909385114,
+            "0": 2.912621359223301,
+            "4": 4.401294498381877,
+            "10": 1.8122977346278317,
+            "7": 0.517799352750809,
+            "5": 1.5533980582524272
+          }
+        },
+        "0.3571428571428571": {
+          "count": 232,
+          "outcome_counts": {
+            "8": 126,
+            "2": 18,
+            "7": 19,
+            "13": 39,
+            "4": 25,
+            "1": 5
+          },
+          "outcome_distribution": {
+            "8": 54.310344827586206,
+            "2": 7.758620689655173,
+            "7": 8.189655172413794,
+            "13": 16.810344827586206,
+            "4": 10.775862068965516,
+            "1": 2.1551724137931036
+          }
+        },
+        "0.5": {
+          "count": 510,
+          "outcome_counts": {
+            "8": 285,
+            "4": 38,
+            "2": 9,
+            "13": 149,
+            "5": 8,
+            "1": 7,
+            "10": 14
+          },
+          "outcome_distribution": {
+            "8": 55.88235294117647,
+            "4": 7.450980392156863,
+            "2": 1.7647058823529411,
+            "13": 29.215686274509807,
+            "5": 1.5686274509803921,
+            "1": 1.3725490196078431,
+            "10": 2.7450980392156863
+          }
+        },
+        "0.7142857142857143": {
+          "count": 893,
+          "outcome_counts": {
+            "13": 339,
+            "9": 49,
+            "6": 14,
+            "2": 3,
+            "8": 356,
+            "4": 48,
+            "11": 14,
+            "7": 33,
+            "5": 9,
+            "12": 14,
+            "1": 5,
+            "0": 9
+          },
+          "outcome_distribution": {
+            "13": 37.96192609182531,
+            "9": 5.487122060470324,
+            "6": 1.5677491601343785,
+            "2": 0.33594624860022393,
+            "8": 39.86562150055991,
+            "4": 5.375139977603583,
+            "11": 1.5677491601343785,
+            "7": 3.6954087346024638,
+            "5": 1.007838745800672,
+            "12": 1.5677491601343785,
+            "1": 0.5599104143337066,
+            "0": 1.007838745800672
+          }
+        },
+        "0.7857142857142857": {
+          "count": 1232,
+          "outcome_counts": {
+            "4": 135,
+            "5": 15,
+            "13": 434,
+            "7": 39,
+            "8": 477,
+            "2": 3,
+            "9": 94,
+            "6": 21,
+            "1": 8,
+            "3": 6
+          },
+          "outcome_distribution": {
+            "4": 10.957792207792208,
+            "5": 1.2175324675324677,
+            "13": 35.22727272727273,
+            "7": 3.1655844155844153,
+            "8": 38.717532467532465,
+            "2": 0.2435064935064935,
+            "9": 7.629870129870129,
+            "6": 1.7045454545454544,
+            "1": 0.6493506493506493,
+            "3": 0.487012987012987
+          }
+        },
+        "0.4285714285714286": {
+          "count": 289,
+          "outcome_counts": {
+            "8": 198,
+            "13": 28,
+            "7": 5,
+            "4": 16,
+            "2": 3,
+            "1": 11,
+            "11": 14,
+            "9": 14
+          },
+          "outcome_distribution": {
+            "8": 68.5121107266436,
+            "13": 9.688581314878892,
+            "7": 1.7301038062283738,
+            "4": 5.536332179930796,
+            "2": 1.0380622837370241,
+            "1": 3.8062283737024223,
+            "11": 4.844290657439446,
+            "9": 4.844290657439446
+          }
+        },
+        "0.5714285714285714": {
+          "count": 709,
+          "outcome_counts": {
+            "8": 331,
+            "13": 223,
+            "9": 60,
+            "7": 27,
+            "12": 27,
+            "1": 7,
+            "3": 9,
+            "2": 3,
+            "11": 14,
+            "5": 8
+          },
+          "outcome_distribution": {
+            "8": 46.685472496473906,
+            "13": 31.45275035260931,
+            "9": 8.46262341325811,
+            "7": 3.80818053596615,
+            "12": 3.80818053596615,
+            "1": 0.9873060648801129,
+            "3": 1.2693935119887165,
+            "2": 0.4231311706629055,
+            "11": 1.9746121297602257,
+            "5": 1.1283497884344147
+          }
+        },
+        "0.8571428571428571": {
+          "count": 1286,
+          "outcome_counts": {
+            "9": 73,
+            "8": 481,
+            "4": 47,
+            "13": 589,
+            "1": 22,
+            "7": 35,
+            "0": 18,
+            "5": 10,
+            "2": 3,
+            "6": 8
+          },
+          "outcome_distribution": {
+            "9": 5.67651632970451,
+            "8": 37.40279937791602,
+            "4": 3.654743390357698,
+            "13": 45.800933125972,
+            "1": 1.7107309486780715,
+            "7": 2.7216174183514776,
+            "0": 1.3996889580093312,
+            "5": 0.7776049766718507,
+            "2": 0.23328149300155523,
+            "6": 0.6220839813374806
+          }
+        },
+        "0.9999999999999999": {
+          "count": 1539,
+          "outcome_counts": {
+            "2": 3,
+            "9": 111,
+            "10": 160,
+            "8": 496,
+            "11": 95,
+            "6": 40,
+            "4": 78,
+            "0": 16,
+            "1": 30,
+            "13": 452,
+            "7": 47,
+            "12": 11
+          },
+          "outcome_distribution": {
+            "2": 0.1949317738791423,
+            "9": 7.212475633528265,
+            "10": 10.396361273554255,
+            "8": 32.228719948018195,
+            "11": 6.172839506172839,
+            "6": 2.599090318388564,
+            "4": 5.0682261208577,
+            "0": 1.0396361273554255,
+            "1": 1.949317738791423,
+            "13": 29.36972059779077,
+            "7": 3.0539311241065628,
+            "12": 0.7147498375568551
+          }
+        },
+        "0.14285714285714285": {
+          "count": 109,
+          "outcome_counts": {
+            "13": 36,
+            "2": 8,
+            "7": 11,
+            "8": 48,
+            "6": 6
+          },
+          "outcome_distribution": {
+            "13": 33.02752293577982,
+            "2": 7.339449541284404,
+            "7": 10.091743119266056,
+            "8": 44.03669724770643,
+            "6": 5.5045871559633035
+          }
+        },
+        "0.0": {
+          "count": 45,
+          "outcome_counts": {
+            "2": 3,
+            "8": 37,
+            "1": 5
+          },
+          "outcome_distribution": {
+            "2": 6.666666666666667,
+            "8": 82.22222222222221,
+            "1": 11.11111111111111
+          }
+        },
+        "0.6428571428571428": {
+          "count": 766,
+          "outcome_counts": {
+            "13": 322,
+            "8": 278,
+            "6": 26,
+            "9": 62,
+            "4": 15,
+            "1": 23,
+            "2": 8,
+            "0": 18,
+            "12": 14
+          },
+          "outcome_distribution": {
+            "13": 42.03655352480418,
+            "8": 36.29242819843342,
+            "6": 3.3942558746736298,
+            "9": 8.093994778067886,
+            "4": 1.95822454308094,
+            "1": 3.0026109660574414,
+            "2": 1.0443864229765014,
+            "0": 2.3498694516971277,
+            "12": 1.8276762402088773
+          }
+        },
+        "0.2142857142857143": {
+          "count": 123,
+          "outcome_counts": {
+            "7": 17,
+            "1": 10,
+            "5": 7,
+            "4": 17,
+            "8": 61,
+            "13": 11
+          },
+          "outcome_distribution": {
+            "7": 13.821138211382115,
+            "1": 8.130081300813007,
+            "5": 5.691056910569105,
+            "4": 13.821138211382115,
+            "8": 49.59349593495935,
+            "13": 8.94308943089431
+          }
+        },
+        "0.2857142857142857": {
+          "count": 144,
+          "outcome_counts": {
+            "4": 8,
+            "13": 42,
+            "8": 89,
+            "7": 5
+          },
+          "outcome_distribution": {
+            "4": 5.555555555555555,
+            "13": 29.166666666666668,
+            "8": 61.80555555555556,
+            "7": 3.4722222222222223
+          }
+        },
+        "0.07142857142857145": {
+          "count": 109,
+          "outcome_counts": {
+            "6": 12,
+            "2": 8,
+            "13": 14,
+            "1": 11,
+            "8": 48,
+            "4": 16
+          },
+          "outcome_distribution": {
+            "6": 11.009174311926607,
+            "2": 7.339449541284404,
+            "13": 12.844036697247708,
+            "1": 10.091743119266056,
+            "8": 44.03669724770643,
+            "4": 14.678899082568808
+          }
+        }
+      }
+    },
+    "DiagnosticArtAstrup_1": {
+      "attribute_name": "DiagnosticArtAstrup_1",
+      "crosstab": {
+        "index": [
+          1,
+          2,
+          3,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            52,
+            142,
+            75,
+            6,
+            326,
+            58,
+            135,
+            212,
+            2662,
+            350,
+            118,
+            67,
+            52,
+            2036,
+            6291
+          ],
+          [
+            54,
+            37,
+            0,
+            9,
+            168,
+            15,
+            31,
+            11,
+            1077,
+            176,
+            56,
+            56,
+            14,
+            977,
+            2681
+          ],
+          [
+            0,
+            11,
+            7,
+            0,
+            17,
+            8,
+            0,
+            23,
+            194,
+            68,
+            28,
+            14,
+            0,
+            189,
+            559
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "2": {
+          "count": 2681,
+          "outcome_counts": {
+            "8": 1077,
+            "13": 977,
+            "4": 168,
+            "10": 56,
+            "11": 56,
+            "6": 31,
+            "9": 176,
+            "0": 54,
+            "1": 37,
+            "5": 15,
+            "7": 11,
+            "3": 9,
+            "12": 14
+          },
+          "outcome_distribution": {
+            "8": 40.171577769489,
+            "13": 36.44162625885863,
+            "4": 6.266318537859007,
+            "10": 2.088772845953003,
+            "11": 2.088772845953003,
+            "6": 1.1562849682954122,
+            "9": 6.564714658709436,
+            "0": 2.0141738157403952,
+            "1": 1.3800820589332339,
+            "5": 0.5594927265945543,
+            "7": 0.41029466616933974,
+            "3": 0.3356956359567326,
+            "12": 0.5221932114882507
+          }
+        },
+        "1": {
+          "count": 6291,
+          "outcome_counts": {
+            "8": 2662,
+            "9": 350,
+            "13": 2036,
+            "2": 75,
+            "7": 212,
+            "5": 58,
+            "4": 326,
+            "10": 118,
+            "1": 142,
+            "6": 135,
+            "11": 67,
+            "12": 52,
+            "0": 52,
+            "3": 6
+          },
+          "outcome_distribution": {
+            "8": 42.31441742171356,
+            "9": 5.563503417580671,
+            "13": 32.363694166269276,
+            "2": 1.1921793037672868,
+            "7": 3.3698934986488633,
+            "5": 0.9219519949133683,
+            "4": 5.182006040375139,
+            "10": 1.8756954379271975,
+            "1": 2.257192815132729,
+            "6": 2.1459227467811157,
+            "11": 1.0650135113654429,
+            "12": 0.8265776506119853,
+            "0": 0.8265776506119853,
+            "3": 0.09537434430138292
+          }
+        },
+        "3": {
+          "count": 559,
+          "outcome_counts": {
+            "4": 17,
+            "13": 189,
+            "8": 194,
+            "1": 11,
+            "9": 68,
+            "11": 14,
+            "10": 28,
+            "2": 7,
+            "7": 23,
+            "5": 8
+          },
+          "outcome_distribution": {
+            "4": 3.041144901610018,
+            "13": 33.810375670840784,
+            "8": 34.704830053667266,
+            "1": 1.9677996422182469,
+            "9": 12.164579606440071,
+            "11": 2.5044722719141324,
+            "10": 5.008944543828265,
+            "2": 1.2522361359570662,
+            "7": 4.114490161001789,
+            "5": 1.4311270125223614
+          }
+        }
+      }
+    },
+    "DiagnosticBlood_1": {
+      "attribute_name": "DiagnosticBlood_1",
+      "crosstab": {
+        "index": [
+          1,
+          2,
+          3,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            16,
+            87,
+            69,
+            6,
+            16,
+            0,
+            66,
+            113,
+            338,
+            126,
+            28,
+            14,
+            38,
+            362,
+            1279
+          ],
+          [
+            90,
+            92,
+            6,
+            9,
+            478,
+            73,
+            100,
+            110,
+            3401,
+            400,
+            146,
+            109,
+            28,
+            2651,
+            7693
+          ],
+          [
+            0,
+            11,
+            7,
+            0,
+            17,
+            8,
+            0,
+            23,
+            194,
+            68,
+            28,
+            14,
+            0,
+            189,
+            559
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "2": {
+          "count": 7693,
+          "outcome_counts": {
+            "8": 3401,
+            "13": 2651,
+            "4": 478,
+            "9": 400,
+            "5": 73,
+            "7": 110,
+            "10": 146,
+            "6": 100,
+            "11": 109,
+            "0": 90,
+            "1": 92,
+            "2": 6,
+            "3": 9,
+            "12": 28
+          },
+          "outcome_distribution": {
+            "8": 44.209021188093075,
+            "13": 34.459898609125176,
+            "4": 6.21344079032887,
+            "9": 5.19953204211621,
+            "5": 0.9489145976862081,
+            "7": 1.4298713115819575,
+            "10": 1.8978291953724162,
+            "6": 1.2998830105290524,
+            "11": 1.4168724814766671,
+            "0": 1.1698947094761472,
+            "1": 1.1958923696867283,
+            "2": 0.07799298063174313,
+            "3": 0.11698947094761472,
+            "12": 0.3639672429481347
+          }
+        },
+        "1": {
+          "count": 1279,
+          "outcome_counts": {
+            "9": 126,
+            "2": 69,
+            "7": 113,
+            "13": 362,
+            "8": 338,
+            "1": 87,
+            "4": 16,
+            "6": 66,
+            "0": 16,
+            "12": 38,
+            "10": 28,
+            "11": 14,
+            "3": 6
+          },
+          "outcome_distribution": {
+            "9": 9.851446442533229,
+            "2": 5.394839718530102,
+            "7": 8.835027365129006,
+            "13": 28.30336200156372,
+            "8": 26.426896012509772,
+            "1": 6.802189210320562,
+            "4": 1.2509773260359656,
+            "6": 5.160281469898358,
+            "0": 1.2509773260359656,
+            "12": 2.9710711493354185,
+            "10": 2.18921032056294,
+            "11": 1.09460516028147,
+            "3": 0.46911649726348714
+          }
+        },
+        "3": {
+          "count": 559,
+          "outcome_counts": {
+            "4": 17,
+            "13": 189,
+            "8": 194,
+            "1": 11,
+            "9": 68,
+            "11": 14,
+            "10": 28,
+            "2": 7,
+            "7": 23,
+            "5": 8
+          },
+          "outcome_distribution": {
+            "4": 3.041144901610018,
+            "13": 33.810375670840784,
+            "8": 34.704830053667266,
+            "1": 1.9677996422182469,
+            "9": 12.164579606440071,
+            "11": 2.5044722719141324,
+            "10": 5.008944543828265,
+            "2": 1.2522361359570662,
+            "7": 4.114490161001789,
+            "5": 1.4311270125223614
+          }
+        }
+      }
+    },
+    "DiagnosticECG_1": {
+      "attribute_name": "DiagnosticECG_1",
+      "crosstab": {
+        "index": [
+          1,
+          2,
+          3,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            7,
+            99,
+            75,
+            6,
+            34,
+            0,
+            64,
+            116,
+            697,
+            140,
+            42,
+            14,
+            38,
+            400,
+            1732
+          ],
+          [
+            99,
+            80,
+            0,
+            9,
+            460,
+            73,
+            102,
+            107,
+            3042,
+            386,
+            132,
+            109,
+            28,
+            2613,
+            7240
+          ],
+          [
+            0,
+            11,
+            7,
+            0,
+            17,
+            8,
+            0,
+            23,
+            194,
+            68,
+            28,
+            14,
+            0,
+            189,
+            559
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "2": {
+          "count": 7240,
+          "outcome_counts": {
+            "8": 3042,
+            "13": 2613,
+            "4": 460,
+            "9": 386,
+            "5": 73,
+            "10": 132,
+            "6": 102,
+            "11": 109,
+            "0": 99,
+            "1": 80,
+            "7": 107,
+            "3": 9,
+            "12": 28
+          },
+          "outcome_distribution": {
+            "8": 42.01657458563536,
+            "13": 36.091160220994475,
+            "4": 6.353591160220995,
+            "9": 5.331491712707182,
+            "5": 1.0082872928176796,
+            "10": 1.8232044198895028,
+            "6": 1.408839779005525,
+            "11": 1.5055248618784531,
+            "0": 1.3674033149171272,
+            "1": 1.1049723756906076,
+            "7": 1.477900552486188,
+            "3": 0.12430939226519336,
+            "12": 0.3867403314917127
+          }
+        },
+        "1": {
+          "count": 1732,
+          "outcome_counts": {
+            "9": 140,
+            "2": 75,
+            "8": 697,
+            "7": 116,
+            "13": 400,
+            "1": 99,
+            "4": 34,
+            "10": 42,
+            "6": 64,
+            "12": 38,
+            "0": 7,
+            "11": 14,
+            "3": 6
+          },
+          "outcome_distribution": {
+            "9": 8.083140877598153,
+            "2": 4.330254041570439,
+            "8": 40.24249422632795,
+            "7": 6.697459584295612,
+            "13": 23.094688221709006,
+            "1": 5.715935334872979,
+            "4": 1.9630484988452657,
+            "10": 2.424942263279446,
+            "6": 3.695150115473441,
+            "12": 2.1939953810623556,
+            "0": 0.40415704387990764,
+            "11": 0.8083140877598153,
+            "3": 0.3464203233256351
+          }
+        },
+        "3": {
+          "count": 559,
+          "outcome_counts": {
+            "4": 17,
+            "13": 189,
+            "8": 194,
+            "1": 11,
+            "9": 68,
+            "11": 14,
+            "10": 28,
+            "2": 7,
+            "7": 23,
+            "5": 8
+          },
+          "outcome_distribution": {
+            "4": 3.041144901610018,
+            "13": 33.810375670840784,
+            "8": 34.704830053667266,
+            "1": 1.9677996422182469,
+            "9": 12.164579606440071,
+            "11": 2.5044722719141324,
+            "10": 5.008944543828265,
+            "2": 1.2522361359570662,
+            "7": 4.114490161001789,
+            "5": 1.4311270125223614
+          }
+        }
+      }
+    }
+  },
+  "dynamic_analyses": {
+    "CRP_1": {
+      "attribute_name": "CRP_1",
+      "crosstab": {
+        "index": [
+          0.008982035928143714,
+          0.1347305389221557,
+          0.23952095808383236,
+          0.281437125748503,
+          0.2934131736526946,
+          0.31137724550898205,
+          1.0,
+          "All"
+        ],
+        "columns": [
+          2,
+          5,
+          8,
+          9,
+          10,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            14,
+            14
+          ],
+          [
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            7
+          ],
+          [
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            8
+          ],
+          [
+            0,
+            0,
+            9,
+            0,
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            0,
+            0,
+            12,
+            0,
+            0,
+            12
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            14,
+            0,
+            14
+          ],
+          [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            7,
+            8,
+            23,
+            12,
+            14,
+            14,
+            78
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "NaN": {
+          "count": 0,
+          "outcome_counts": {},
+          "outcome_distribution": {}
+        },
+        "0.281437125748503": {
+          "count": 9,
+          "outcome_counts": {
+            "8": 9
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.008982035928143714": {
+          "count": 14,
+          "outcome_counts": {
+            "13": 14
+          },
+          "outcome_distribution": {
+            "13": 100.0
+          }
+        },
+        "0.1347305389221557": {
+          "count": 7,
+          "outcome_counts": {
+            "2": 7
+          },
+          "outcome_distribution": {
+            "2": 100.0
+          }
+        },
+        "0.31137724550898205": {
+          "count": 14,
+          "outcome_counts": {
+            "10": 14
+          },
+          "outcome_distribution": {
+            "10": 100.0
+          }
+        },
+        "0.2934131736526946": {
+          "count": 12,
+          "outcome_counts": {
+            "9": 12
+          },
+          "outcome_distribution": {
+            "9": 100.0
+          }
+        },
+        "1.0": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.23952095808383236": {
+          "count": 8,
+          "outcome_counts": {
+            "5": 8
+          },
+          "outcome_distribution": {
+            "5": 100.0
+          }
+        }
+      }
+    },
+    "LacticAcid_1": {
+      "attribute_name": "LacticAcid_1",
+      "crosstab": {
+        "index": [],
+        "columns": [],
+        "data": []
+      },
+      "attribute_outcome_stats": {
+        "NaN": {
+          "count": 0,
+          "outcome_counts": {},
+          "outcome_distribution": {}
+        }
+      }
+    },
+    "Leucocytes_1": {
+      "attribute_name": "Leucocytes_1",
+      "crosstab": {
+        "index": [
+          0.1581920903954802,
+          0.22598870056497172,
+          0.24293785310734461,
+          0.35028248587570626,
+          0.367231638418079,
+          0.3898305084745763,
+          0.4011299435028249,
+          0.46892655367231634,
+          0.5197740112994351,
+          0.5423728813559323,
+          0.5593220338983051,
+          0.5649717514124293,
+          0.6327683615819208,
+          0.6949152542372881,
+          0.8361581920903955,
+          0.847457627118644,
+          1.0,
+          "All"
+        ],
+        "columns": [
+          1,
+          8,
+          9,
+          10,
+          11,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            13
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            12,
+            0,
+            0,
+            0,
+            0,
+            12
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            14,
+            0,
+            14
+          ],
+          [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            14,
+            14
+          ],
+          [
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            13
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            8
+          ],
+          [
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            13
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            0,
+            0,
+            14,
+            0,
+            0,
+            14
+          ],
+          [
+            6,
+            143,
+            28,
+            14,
+            14,
+            14,
+            219
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "NaN": {
+          "count": 0,
+          "outcome_counts": {},
+          "outcome_distribution": {}
+        },
+        "0.367231638418079": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.5649717514124293": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.35028248587570626": {
+          "count": 12,
+          "outcome_counts": {
+            "8": 12
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.1581920903954802": {
+          "count": 14,
+          "outcome_counts": {
+            "9": 14
+          },
+          "outcome_distribution": {
+            "9": 100.0
+          }
+        },
+        "0.3898305084745763": {
+          "count": 14,
+          "outcome_counts": {
+            "11": 14
+          },
+          "outcome_distribution": {
+            "11": 100.0
+          }
+        },
+        "0.24293785310734461": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.6327683615819208": {
+          "count": 8,
+          "outcome_counts": {
+            "8": 8
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "1.0": {
+          "count": 14,
+          "outcome_counts": {
+            "10": 14
+          },
+          "outcome_distribution": {
+            "10": 100.0
+          }
+        },
+        "0.46892655367231634": {
+          "count": 6,
+          "outcome_counts": {
+            "1": 6
+          },
+          "outcome_distribution": {
+            "1": 100.0
+          }
+        },
+        "0.8361581920903955": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.22598870056497172": {
+          "count": 13,
+          "outcome_counts": {
+            "8": 13
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.5593220338983051": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.5197740112994351": {
+          "count": 14,
+          "outcome_counts": {
+            "13": 14
+          },
+          "outcome_distribution": {
+            "13": 100.0
+          }
+        },
+        "0.5423728813559323": {
+          "count": 13,
+          "outcome_counts": {
+            "8": 13
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.6949152542372881": {
+          "count": 13,
+          "outcome_counts": {
+            "8": 13
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.847457627118644": {
+          "count": 14,
+          "outcome_counts": {
+            "8": 14
+          },
+          "outcome_distribution": {
+            "8": 100.0
+          }
+        },
+        "0.4011299435028249": {
+          "count": 14,
+          "outcome_counts": {
+            "9": 14
+          },
+          "outcome_distribution": {
+            "9": 100.0
+          }
+        }
+      }
+    },
+    "prefix_2": {
+      "attribute_name": "prefix_2",
+      "crosstab": {
+        "index": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            12,
+            28,
+            21,
+            2,
+            64,
+            10,
+            22,
+            32,
+            312,
+            47,
+            15,
+            10,
+            5,
+            239,
+            819
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            130,
+            39,
+            13,
+            13,
+            0,
+            13,
+            220
+          ],
+          [
+            0,
+            9,
+            0,
+            0,
+            7,
+            0,
+            0,
+            11,
+            74,
+            26,
+            0,
+            0,
+            0,
+            136,
+            263
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            50,
+            13,
+            0,
+            0,
+            0,
+            24,
+            100
+          ],
+          [
+            86,
+            153,
+            50,
+            13,
+            392,
+            57,
+            144,
+            172,
+            3115,
+            445,
+            161,
+            114,
+            61,
+            2613,
+            7576
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            13
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            7,
+            0,
+            0,
+            10,
+            112,
+            13,
+            0,
+            0,
+            0,
+            75,
+            217
+          ],
+          [
+            0,
+            0,
+            5,
+            0,
+            9,
+            0,
+            0,
+            0,
+            33,
+            0,
+            13,
+            0,
+            0,
+            25,
+            85
+          ],
+          [
+            8,
+            0,
+            6,
+            0,
+            20,
+            14,
+            0,
+            8,
+            107,
+            11,
+            0,
+            0,
+            0,
+            64,
+            238
+          ],
+          [
+            106,
+            190,
+            82,
+            15,
+            511,
+            81,
+            166,
+            246,
+            3933,
+            594,
+            202,
+            137,
+            66,
+            3202,
+            9531
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "0": {
+          "count": 819,
+          "outcome_counts": {
+            "8": 312,
+            "13": 239,
+            "4": 64,
+            "9": 47,
+            "2": 21,
+            "7": 32,
+            "5": 10,
+            "10": 15,
+            "1": 28,
+            "6": 22,
+            "11": 10,
+            "0": 12,
+            "12": 5,
+            "3": 2
+          },
+          "outcome_distribution": {
+            "8": 38.095238095238095,
+            "13": 29.181929181929185,
+            "4": 7.814407814407814,
+            "9": 5.738705738705739,
+            "2": 2.564102564102564,
+            "7": 3.907203907203907,
+            "5": 1.221001221001221,
+            "10": 1.8315018315018317,
+            "1": 3.418803418803419,
+            "6": 2.6862026862026864,
+            "11": 1.221001221001221,
+            "0": 1.465201465201465,
+            "12": 0.6105006105006106,
+            "3": 0.2442002442002442
+          }
+        },
+        "8": {
+          "count": 238,
+          "outcome_counts": {
+            "8": 107,
+            "13": 64,
+            "4": 20,
+            "7": 8,
+            "2": 6,
+            "9": 11,
+            "0": 8,
+            "5": 14
+          },
+          "outcome_distribution": {
+            "8": 44.957983193277315,
+            "13": 26.89075630252101,
+            "4": 8.403361344537815,
+            "7": 3.361344537815126,
+            "2": 2.5210084033613445,
+            "9": 4.621848739495799,
+            "0": 3.361344537815126,
+            "5": 5.88235294117647
+          }
+        },
+        "4": {
+          "count": 7576,
+          "outcome_counts": {
+            "8": 3115,
+            "13": 2613,
+            "4": 392,
+            "9": 445,
+            "2": 50,
+            "7": 172,
+            "5": 57,
+            "10": 161,
+            "1": 153,
+            "6": 144,
+            "11": 114,
+            "0": 86,
+            "12": 61,
+            "3": 13
+          },
+          "outcome_distribution": {
+            "8": 41.11668426610349,
+            "13": 34.49049630411827,
+            "4": 5.174234424498416,
+            "9": 5.873812038014783,
+            "2": 0.6599788806758183,
+            "7": 2.2703273495248153,
+            "5": 0.752375923970433,
+            "10": 2.125131995776135,
+            "1": 2.019535374868004,
+            "6": 1.9007391763463568,
+            "11": 1.504751847940866,
+            "0": 1.1351636747624076,
+            "12": 0.8051742344244984,
+            "3": 0.17159450897571277
+          }
+        },
+        "2": {
+          "count": 263,
+          "outcome_counts": {
+            "4": 7,
+            "13": 136,
+            "1": 9,
+            "8": 74,
+            "9": 26,
+            "7": 11
+          },
+          "outcome_distribution": {
+            "4": 2.6615969581749046,
+            "13": 51.71102661596958,
+            "1": 3.4220532319391634,
+            "8": 28.13688212927757,
+            "9": 9.885931558935361,
+            "7": 4.182509505703422
+          }
+        },
+        "3": {
+          "count": 100,
+          "outcome_counts": {
+            "13": 24,
+            "8": 50,
+            "7": 13,
+            "9": 13
+          },
+          "outcome_distribution": {
+            "13": 24.0,
+            "8": 50.0,
+            "7": 13.0,
+            "9": 13.0
+          }
+        },
+        "6": {
+          "count": 217,
+          "outcome_counts": {
+            "13": 75,
+            "8": 112,
+            "9": 13,
+            "7": 10,
+            "4": 7
+          },
+          "outcome_distribution": {
+            "13": 34.56221198156682,
+            "8": 51.61290322580645,
+            "9": 5.990783410138248,
+            "7": 4.6082949308755765,
+            "4": 3.225806451612903
+          }
+        },
+        "7": {
+          "count": 85,
+          "outcome_counts": {
+            "4": 9,
+            "13": 25,
+            "8": 33,
+            "2": 5,
+            "10": 13
+          },
+          "outcome_distribution": {
+            "4": 10.588235294117647,
+            "13": 29.411764705882355,
+            "8": 38.82352941176471,
+            "2": 5.88235294117647,
+            "10": 15.294117647058824
+          }
+        },
+        "1": {
+          "count": 220,
+          "outcome_counts": {
+            "9": 39,
+            "13": 13,
+            "8": 130,
+            "4": 12,
+            "11": 13,
+            "10": 13
+          },
+          "outcome_distribution": {
+            "9": 17.727272727272727,
+            "13": 5.909090909090909,
+            "8": 59.09090909090909,
+            "4": 5.454545454545454,
+            "11": 5.909090909090909,
+            "10": 5.909090909090909
+          }
+        },
+        "5": {
+          "count": 13,
+          "outcome_counts": {
+            "13": 13
+          },
+          "outcome_distribution": {
+            "13": 100.0
+          }
+        }
+      }
+    },
+    "Age_2": {
+      "attribute_name": "Age_2",
+      "crosstab": {
+        "index": [
+          0.0,
+          "All"
+        ],
+        "columns": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          "All"
+        ],
+        "data": [
+          [
+            12,
+            28,
+            21,
+            2,
+            64,
+            10,
+            22,
+            32,
+            312,
+            47,
+            15,
+            10,
+            5,
+            239,
+            819
+          ],
+          [
+            12,
+            28,
+            21,
+            2,
+            64,
+            10,
+            22,
+            32,
+            312,
+            47,
+            15,
+            10,
+            5,
+            239,
+            819
+          ]
+        ]
+      },
+      "attribute_outcome_stats": {
+        "0.0": {
+          "count": 819,
+          "outcome_counts": {
+            "8": 312,
+            "13": 239,
+            "4": 64,
+            "9": 47,
+            "2": 21,
+            "7": 32,
+            "5": 10,
+            "10": 15,
+            "1": 28,
+            "6": 22,
+            "11": 10,
+            "0": 12,
+            "12": 5,
+            "3": 2
+          },
+          "outcome_distribution": {
+            "8": 38.095238095238095,
+            "13": 29.181929181929185,
+            "4": 7.814407814407814,
+            "9": 5.738705738705739,
+            "2": 2.564102564102564,
+            "7": 3.907203907203907,
+            "5": 1.221001221001221,
+            "10": 1.8315018315018317,
+            "1": 3.418803418803419,
+            "6": 2.6862026862026864,
+            "11": 1.221001221001221,
+            "0": 1.465201465201465,
+            "12": 0.6105006105006106,
+            "3": 0.2442002442002442
+          }
+        },
+        "NaN": {
+          "count": 0,
+          "outcome_counts": {},
+          "outcome_distribution": {}
+        }
+      }
+    }
+  }
+}

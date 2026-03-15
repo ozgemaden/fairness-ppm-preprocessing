@@ -1,0 +1,22 @@
+{
+  "dataset_name": "PermitLog",
+  "num_traces": 7065,
+  "num_events": 86581,
+  "num_variants": 1478,
+  "variance_ratio": 0.2092002830856334,
+  "num_activities": 51,
+  "trace_length_min": 3,
+  "trace_length_max": 90,
+  "trace_length_avg": 12,
+  "trace_length_median": 11,
+  "trace_length_std": 5.584833009333192,
+  "homogeneity_ratio": 0.465402750777766,
+  "trace_attributes": 0,
+  "event_attributes": 172,
+  "total_attributes": 172,
+  "prefix_lengths": {
+    "min": 3,
+    "avg": 12,
+    "max": 90
+  }
+}

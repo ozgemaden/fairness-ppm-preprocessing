@@ -1,0 +1,110 @@
+{
+  "total_traces": 5652,
+  "outcome_counts": {
+    "Payment Handled": 4675,
+    "Permit SAVED by EMPLOYEE": 3,
+    "Declaration SAVED by EMPLOYEE": 25,
+    "Send Reminder": 687,
+    "Permit REJECTED by MISSING": 38,
+    "End trip": 170,
+    "Declaration REJECTED by MISSING": 2,
+    "Declaration REJECTED by EMPLOYEE": 24,
+    "Permit REJECTED by EMPLOYEE": 23,
+    "Permit FINAL_APPROVED by SUPERVISOR": 4,
+    "Request Payment": 1
+  },
+  "outcome_distribution": {
+    "Payment Handled": 82.71408351026184,
+    "Permit SAVED by EMPLOYEE": 0.05307855626326964,
+    "Declaration SAVED by EMPLOYEE": 0.4423213021939137,
+    "Send Reminder": 12.154989384288747,
+    "Permit REJECTED by MISSING": 0.6723283793347488,
+    "End trip": 3.007784854918613,
+    "Declaration REJECTED by MISSING": 0.035385704175513094,
+    "Declaration REJECTED by EMPLOYEE": 0.42462845010615713,
+    "Permit REJECTED by EMPLOYEE": 0.4069355980184005,
+    "Permit FINAL_APPROVED by SUPERVISOR": 0.07077140835102619,
+    "Request Payment": 0.017692852087756547
+  },
+  "outcome_length_stats": {
+    "Payment Handled": {
+      "count": 4675,
+      "avg_length": 13.602994652406418,
+      "min_length": 8,
+      "max_length": 90
+    },
+    "Permit SAVED by EMPLOYEE": {
+      "count": 3,
+      "avg_length": 4.333333333333333,
+      "min_length": 3,
+      "max_length": 7
+    },
+    "Declaration SAVED by EMPLOYEE": {
+      "count": 25,
+      "avg_length": 8.44,
+      "min_length": 5,
+      "max_length": 32
+    },
+    "Send Reminder": {
+      "count": 687,
+      "avg_length": 8.06259097525473,
+      "min_length": 5,
+      "max_length": 27
+    },
+    "Permit REJECTED by MISSING": {
+      "count": 38,
+      "avg_length": 6.526315789473684,
+      "min_length": 5,
+      "max_length": 23
+    },
+    "End trip": {
+      "count": 170,
+      "avg_length": 10.076470588235294,
+      "min_length": 3,
+      "max_length": 81
+    },
+    "Declaration REJECTED by MISSING": {
+      "count": 2,
+      "avg_length": 8.0,
+      "min_length": 7,
+      "max_length": 9
+    },
+    "Declaration REJECTED by EMPLOYEE": {
+      "count": 24,
+      "avg_length": 13.333333333333334,
+      "min_length": 8,
+      "max_length": 35
+    },
+    "Permit REJECTED by EMPLOYEE": {
+      "count": 23,
+      "avg_length": 5.782608695652174,
+      "min_length": 5,
+      "max_length": 7
+    },
+    "Permit FINAL_APPROVED by SUPERVISOR": {
+      "count": 4,
+      "avg_length": 5.5,
+      "min_length": 5,
+      "max_length": 6
+    },
+    "Request Payment": {
+      "count": 1,
+      "avg_length": 13.0,
+      "min_length": 13,
+      "max_length": 13
+    }
+  },
+  "unique_outcomes": [
+    "Payment Handled",
+    "Permit SAVED by EMPLOYEE",
+    "Declaration SAVED by EMPLOYEE",
+    "Send Reminder",
+    "Permit REJECTED by MISSING",
+    "End trip",
+    "Declaration REJECTED by MISSING",
+    "Declaration REJECTED by EMPLOYEE",
+    "Permit REJECTED by EMPLOYEE",
+    "Permit FINAL_APPROVED by SUPERVISOR",
+    "Request Payment"
+  ]
+}
