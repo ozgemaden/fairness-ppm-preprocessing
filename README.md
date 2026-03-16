@@ -21,7 +21,11 @@ main result tables for all datasets and configurations.
     - **baseline** – one vector per trace (longest prefix only, `only-this`)
     - **all-in-one** – multiple vectors per trace (all prefixes up to \(k\))
   - encoding:
-    - `simple`, `frequency`, `complex` (with event attribute `org:resource`)
+    - `simple`, `frequency`, `complex` (includes all case-level attributes present in the log
+      plus the standard resource event attribute `org:resource`/`Resource`; the attribute set
+      therefore differs per dataset — e.g., `Resource` only for DomesticDeclarations,
+      clinical attributes such as `Age` and `Leucocytes` for SepsisCases, and financial
+      attributes such as `TotalDeclared` and `RfpNumber` for the BPI 2020 logs)
   - bias metrics:
     - outcome distribution shift (original vs. encoded)
     - trace-level representation (multiplication ratio)
