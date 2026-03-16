@@ -53,8 +53,8 @@ They can be obtained from 4TU.ResearchData and the IEEE Task Force on Process Mi
 resource list, as referenced in the thesis (Sepsis Cases, Road Traffic Fine Management
 and the BPI 2020 logs).
 
-Update the dataset paths in the configuration/module where logs are loaded
-(e.g. in `src/config.py` or in the loader functions) to point to your local copies.
+Update the dataset paths in `src/dataset_config.py` (`DATASET_PATHS` list)
+to point to your local copies of the CSV event logs.
 
 ## Installation
 
